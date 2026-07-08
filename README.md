@@ -4,7 +4,7 @@ A modern, responsive portfolio website showcasing my expertise in **Software Eng
 
 ## 🔗 Live Demo
 
-👉 https://your-vercel-url.vercel.app
+👉 https://portfolio-chkx.vercel.app/
 
 ## 📌 About
 
@@ -81,7 +81,7 @@ assets/portfolio-preview.png
 
 **Usha Asode**
 
-- 📧 Email: your-email@example.com
+- 📧 Email: ushaasode@gmail.com
 - 💼 LinkedIn: https://linkedin.com/in/usha-asode57
 - 💻 GitHub: https://github.com/usha123-boop
 
